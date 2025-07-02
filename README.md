@@ -163,6 +163,13 @@ as an example in "The Art of Computer Programming, Volume 1." He writes:
 > realize how little we know about a thing until we attempt to
 > simulate it on a computer.  ("The Art of Computer Programming", Volume 1, 3rd Ed., pg. 298).
 
+Personally, I love the challenge of working on this problem because I
+like to think about the final deliverable.  If someone came to me to
+work on this problem, what would I actually give back to them?  As a
+matter of personal pride, I'd probably want to do better than handing
+them a giant bag of hacks and an assurance that "it works on my
+elevator."
+
 ## Questions and Answers
 
 **Q: Do you provide any solution code here?**
@@ -183,34 +190,3 @@ A: Sure.  Open a discussion topic.
 
 A: No. Go for it! Everyone will probably learn a lot!  A link
 back here is always appreciated. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
