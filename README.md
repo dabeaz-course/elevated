@@ -28,7 +28,7 @@ Beyond that, there are very few ground rules.  Although the [Lifty](https://gith
 simulator is written in Rust, you can attempt the project in
 programming language that you wish.  You can employ any programming
 technique that you happen to know about.  At the end of the day, 
-your solution will either work like a actual elevator or we'll all
+your solution will either work like an actual elevator or we'll all
 be taking the stairs.
 
 ## A Few Desirable Things
